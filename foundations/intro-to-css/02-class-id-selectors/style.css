@@ -1,0 +1,19 @@
+.class {
+    background-color: #ffc9d5;
+    font-family: Verdana, "dejavu sans", sans-serif;
+}
+
+#specialone {
+    color: rgb(8, 8, 248);
+    font-size: 36px;
+}
+
+.class.cooler {
+    font-size: 24px;
+}
+
+#specialtwo {
+    background-color: rgb(101, 204, 101);
+    font-size: 24px;
+    font-weight: bold;
+}
