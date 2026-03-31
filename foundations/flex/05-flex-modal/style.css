@@ -67,3 +67,27 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+/* Sol */
+.modal {
+  display: flex;
+  padding: 12px;
+}
+
+.Up {
+  display: flex;
+  flex-direction: row;
+  font-weight:bold;
+  font-size: larger;
+  justify-content: space-between;
+}
+
+.Left {
+padding-right: 12px;
+}
+
+.Right {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
